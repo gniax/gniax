@@ -2,7 +2,6 @@
   <h1>👋</h1>
   
   [![](https://img.shields.io/static/v1?label=Website&message=coinvote.cc&color=informational&logo=web)](https://coinvote.cc)
-  [![](https://img.shields.io/badge/-Discord:_gniax-%235865F2?logo=discord&logoColor=white)]()
 </div>
 
 <details open>
